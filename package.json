@@ -1,0 +1,11 @@
+{
+  "name": "obektiv-photosalon",
+  "version": "1.0.0",
+  "description": "Сайт фотосалона «Объектив»: заказ печати фото, конструктор футболок, админка",
+  "main": "server.js",
+  "private": true,
+  "engines": { "node": ">=22.13" },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
